@@ -1,12 +1,10 @@
 langchain
 langchain-community
-openai
-chromadb
-python-dotenv
-tiktoken
-pypdf
-langchain-openai
+langchain-text-splitters
 langchain-huggingface
 sentence-transformers
-cryptography
 langchain-groq
+chromadb
+python-dotenv
+pypdf
+cryptography
