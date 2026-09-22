@@ -1,0 +1,12 @@
+langchain
+langchain-community
+openai
+chromadb
+python-dotenv
+tiktoken
+pypdf
+langchain-openai
+langchain-huggingface
+sentence-transformers
+cryptography
+langchain-groq
